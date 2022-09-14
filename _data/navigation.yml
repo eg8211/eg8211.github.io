@@ -1,0 +1,11 @@
+main:
+  - title: "Time Tracking"
+    url: /time-tracking/
+  - title: "Project Artifacts"
+    url: /project-artifacts/
+  - title: "About The Team"
+    url: /about-team/
+  - title: "About MISHA"
+    url: /about-misha/
+  - title: "In The News"
+    url: /news/
