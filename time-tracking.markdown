@@ -2,6 +2,14 @@
 title: 'Time Tracking'
 permalink: /time-tracking/
 ---
+{% comment %}
+TODO: Consider splitting each member's timesheet into individual sections that can be reached with anchor links,
+instead of one big spreadsheet
+
+TODO: Almost definitely should restructure this site to follow the "single" layout in Minimal Mistakes once
+we have more stuff to add like charts, graphs and other metrics
+{% endcomment %}
+
 <link rel="stylesheet" href="../assets/css/styles.css">
 <div class="spreadsheet">
 <iframe 
